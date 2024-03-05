@@ -1,0 +1,16 @@
+body { background-image: url("inmortis.png") 
+    
+}
+h6 {display: block;
+  margin-left: 0%;
+  margin-right: 60%;
+    color: #ffffff;
+    font-family: Arial
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  
